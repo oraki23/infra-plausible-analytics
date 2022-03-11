@@ -1,0 +1,5 @@
+# Do not store the secrets on git, create them on-site
+secrets/
+plausible-conf.env
+apikey_sendgrid.env
+docker-compose.y*ml
